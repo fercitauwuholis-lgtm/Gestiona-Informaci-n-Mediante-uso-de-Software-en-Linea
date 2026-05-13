@@ -21,4 +21,21 @@ FORK: Un fork en GitHub es una copia personal de un repositorio ajeno que se alo
 A diferencia de una copia local, el fork vive en el servidor de GitHub, permitiéndote experimentar, 
 modificar y desarrollar libremente sin afectar el proyecto original, manteniendo un vínculo para proponer cambios de vuelta
 
+¿QUE ES UN COMMIT?
+Un commit es una "foto" o captura instantánea (snapshot) de tu código en un momento específico, guardada permanentemente
+en un sistema de control de versiones como Git
+
+¿PARA QUE SIRVE EL HISTORIAL DE VERSIONES?  
+El historial de versiones en GitHub sirve para rastrear, gestionar y revertir cambios en el código fuente a lo largo del tiempo,
+permitiendo a los desarrolladores visualizar qué se modificó, quién lo hizo y cuándo.
+
+¿QUE VENTAJAS TIENE GITHUB PARA TRABAJO COLABORATIVO
+GitHub es la plataforma líder para el desarrollo colaborativo de software, ofreciendo un entorno centralizado que facilita el trabajo en equipo, 
+independientemente de la ubicación geográfica de sus miembros
+
+¿QUE SUCEDE SI UN ARCHIVO SE ELIMINA ACCIDENTALMENTE?
+
+
+
+
 
