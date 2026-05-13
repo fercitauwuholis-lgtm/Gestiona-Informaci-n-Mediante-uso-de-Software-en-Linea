@@ -1,0 +1,24 @@
+DIFERENCIAS ENTRE: REPOSITORY, COMMIT, BRANCH, PULL REQUEST, FORK
+
+REPOSITORY: Es el espacio de almacenamiento centralizado donde reside el codigo fuente de un proyecto
+su historial de cambios y archivos relacionados. Los principales diferencias etre repositorios en 
+GitHub radican en su visibilidad, propiedad y función, se diferenia del local en que el primero sirve
+para colaborar y el segndo para trabajar en tu computadora personal
+
+COMMIT: Las diferencias entre commits en Git/GitHub permiten visualizar los cambios realizados entre 
+dos puntos en el tiempo. Usando git diff <commit1> <commit2>, puedes ver las adiciones, eliminaciones (d)
+y modificaciones (m) de archivos, identificando el código exacto que cambió entre versiones.
+
+BRANCH: Las ramas (branches) en GitHub son líneas de desarrollo independientes y paralelas que permiten
+trabajar en nuevas funcionalidades, correcciones de errores o experimentos sin alterar el código principal (main/master).
+Las diferencias entre ellas se gestionan mediante comandos como git diff, git log o a través de Pull Requests
+
+PULL REQUEST: Un Pull Request (PR) en GitHub es una solicitud formal para fusionar cambios de una rama a otra,
+funcionando como una herramienta de revisión de código, debate y control de calidad antes de integrar código nuevo.
+A diferencia del comando local git pull (que descarga cambios), el PR permite la colaboración y aprobación supervisada.
+
+FORK: Un fork en GitHub es una copia personal de un repositorio ajeno que se aloja en tu propia cuenta.
+A diferencia de una copia local, el fork vive en el servidor de GitHub, permitiéndote experimentar, 
+modificar y desarrollar libremente sin afectar el proyecto original, manteniendo un vínculo para proponer cambios de vuelta
+
+
